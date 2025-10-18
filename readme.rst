@@ -67,5 +67,14 @@ or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
 Acknowledgement
 ***************
 
+
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+
+
+Owner's note:
+Before Using:
+
+1. Please install "Composer" because the "vendor" folder will not be added here as it contains 2000+ files.
+2. Use the xampp 2015 version (https://drive.google.com/file/d/1Hnh3rHqPskDhOGK_slJ4Zaf9sYQsSiGW/view?usp=sharing)
