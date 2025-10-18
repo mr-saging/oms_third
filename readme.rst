@@ -78,3 +78,11 @@ Before Using:
 
 1. Please install "Composer" because the "vendor" folder will not be added here as it contains 2000+ files.
 2. Use the xampp 2015 version (https://drive.google.com/file/d/1Hnh3rHqPskDhOGK_slJ4Zaf9sYQsSiGW/view?usp=sharing)
+3. Set up the smtp mail:
+	$mail->Username
+	$mail->Password
+	$mail->setFrom
+	$mail->addAddress
+	$fromEmail
+
+
